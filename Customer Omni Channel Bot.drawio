@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T08:45:57.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="7IP0SBg3zgHVWY4YVTqw" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T08:47:24.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="8iYw7xX-a3QJuWy0P7dF" version="21.0.10" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1155" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="Pig2w74-dIn3M1m2GW-g-60" value="Change phone number process&lt;br&gt;(Day2)" style="whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;strokeWidth=1;rounded=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="2b4e8129b02d487f-2">
           <mxGeometry x="820" y="57.5" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Pig2w74-dIn3M1m2GW-g-79" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="730" y="60" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pig2w74-dIn3M1m2GW-g-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-1" source="2b4e8129b02d487f-6" target="Pig2w74-dIn3M1m2GW-g-8">
           <mxGeometry relative="1" as="geometry" />
@@ -141,6 +144,9 @@
         <mxCell id="Pig2w74-dIn3M1m2GW-g-57" value="Change phone number process&lt;br&gt;(Day2)" style="whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;strokeWidth=1;rounded=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="2b4e8129b02d487f-3">
           <mxGeometry x="820" y="57.5" width="70" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="Pig2w74-dIn3M1m2GW-g-77" value="Send onboarded&lt;br&gt;message" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-3">
+          <mxGeometry x="710" y="100" width="70" height="37" as="geometry" />
+        </mxCell>
         <mxCell id="Pig2w74-dIn3M1m2GW-g-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-1" source="Pig2w74-dIn3M1m2GW-g-57" target="Pig2w74-dIn3M1m2GW-g-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -170,6 +176,12 @@
         </mxCell>
         <mxCell id="Pig2w74-dIn3M1m2GW-g-56" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Lucida Console&quot;&gt;- api/BotMember/member/linkLasPolicy&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;i style=&quot;background-color: initial; border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 10px;&quot; face=&quot;Lucida Console&quot;&gt;- api/BotMember/member/linkDpasPolicy&lt;/font&gt;&lt;/i&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Lucida Console&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="2b4e8129b02d487f-4">
           <mxGeometry x="600" y="130" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pig2w74-dIn3M1m2GW-g-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2b4e8129b02d487f-1" source="Pig2w74-dIn3M1m2GW-g-53" target="Pig2w74-dIn3M1m2GW-g-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pig2w74-dIn3M1m2GW-g-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-1" source="Pig2w74-dIn3M1m2GW-g-77" target="Pig2w74-dIn3M1m2GW-g-79">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
